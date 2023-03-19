@@ -1,0 +1,8 @@
+<resources>
+  <style name="Theme.SRooms.NoActionBar" >
+  <item name="windowActionBar">false</item>
+  <item name="windowNoTitle">true</item>
+</style>
+  <style name="Theme.SRooms.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+  <style name="Theme.SRooms.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
